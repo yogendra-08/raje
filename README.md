@@ -1,8 +1,41 @@
-# 🏰 RajyaBazaar - Complete E-commerce Platform
+<div align="center">
+  <h1>🏰 RajyaBazaar - Complete E-commerce Platform</h1>
+  <h3>Where Heritage Meets Modern Technology</h3>
+  
+  <p>
+    <a href="#-features">Features</a> •
+    <a href="#-showcase">Screenshots</a> •
+    <a href="#-tech-stack">Tech Stack</a> •
+    <a href="#-getting-started">Getting Started</a>
+  </p>
+  
+  <p>
+    <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js">
+    <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
+    <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS">
+    <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase">
+  </p>
+</div>
 
-> Where Heritage Meets Modern Technology
+> Experience the grandeur of Maratha heritage through our authentic e-commerce platform. RajyaBazaar brings you handcrafted treasures, royal attire, and historical artifacts that celebrate the legacy of the Maratha Empire.
 
 RajyaBazaar is a comprehensive, modern e-commerce platform dedicated to preserving and showcasing the rich cultural heritage of the Maratha Empire. Our platform offers authentic handicrafts, royal attire, historical books, wooden weapons, and souvenirs that celebrate the legacy of Chhatrapati Shivaji Maharaj and Maratha culture.
+
+## 🖼️ **Project Showcase**
+
+<div align="center">
+  <h3>Explore the RajyaBazaar Experience</h3>
+  
+  | Homepage | Product Page |
+  |----------|--------------|
+  | <img src="./screesnhots/ss1.png" alt="RajyaBazaar Homepage" width="400"/> | <img src="./screesnhots/ss2.png" alt="Product Page" width="400"/> |
+  | Experience our beautiful homepage showcasing featured Maratha heritage products | Detailed product view with rich descriptions and purchase options |
+  
+  | Mobile View | Dark Mode |
+  |-------------|-----------|
+  | <img src="./screesnhots/ss3.png" alt="Mobile View" width="200"/> | <img src="./screesnhots/ss4.png" alt="Dark Mode" width="200"/> |
+  | Fully responsive design for all devices | Seamless dark mode for comfortable browsing |
+</div>
 
 ## ✨ **Complete Feature Set**
 
