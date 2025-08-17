@@ -26,48 +26,71 @@ RajyaBazaar is a comprehensive, modern e-commerce platform dedicated to preservi
 <div align="center">
   <h3>Explore the RajyaBazaar Experience</h3>
   
-  <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 2rem; margin: 2rem 0;">
-    <!-- Desktop Views -->
-    <div style="border-radius: 8px; overflow: hidden; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
-      <img src="./screesnhots/ss1.png" alt="RajyaBazaar Homepage" style="width: 100%; height: auto; display: block;"/>
-      <div style="padding: 1rem; background: #f8f9fa; border-top: 1px solid #eee;">
-        <h4 style="margin: 0 0 0.5rem 0; color: #333;">Homepage</h4>
-        <p style="margin: 0; color: #666; font-size: 0.9rem;">Experience our beautiful homepage showcasing featured Maratha heritage products</p>
+  <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(320px, 1fr)); gap: 2rem; margin: 2rem 0;">
+    <!-- RajyaBazaar Homepage -->
+    <div style="border-radius: 12px; overflow: hidden; box-shadow: 0 6px 12px rgba(0,0,0,0.1); border: 1px solid #eee;">
+      <img src="./screesnhots/ss1.png" alt="RajyaBazaar Homepage" style="width: 100%; height: auto; display: block; border-bottom: 1px solid #eee;"/>
+      <div style="padding: 1.5rem; background: #fff;">
+        <h3 style="margin: 0 0 1rem 0; color: #8B0000; display: flex; align-items: center; gap: 0.5rem;">
+          🏛️ RajyaBazaar - Homepage
+        </h3>
+        <p style="margin: 0; color: #444; line-height: 1.6;">
+          The homepage of <strong>RajyaBazaar</strong> welcomes users with a royal touch, highlighting India's cultural heritage with a modern marketplace UI. It features a search bar for royal artifacts, navigation menu, login option, and a prominent <strong>"Explore the Legacy"</strong> CTA button that guides users to curated collections.
+        </p>
       </div>
     </div>
 
-    <div style="border-radius: 8px; overflow: hidden; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
-      <img src="./screesnhots/ss2.png" alt="Product Page" style="width: 100%; height: auto; display: block;"/>
-      <div style="padding: 1rem; background: #f8f9fa; border-top: 1px solid #eee;">
-        <h4 style="margin: 0 0 0.5rem 0; color: #333;">Product Page</h4>
-        <p style="margin: 0; color: #666; font-size: 0.9rem;">Detailed product view with rich descriptions and purchase options</p>
+    <!-- Trending Royal Artifacts -->
+    <div style="border-radius: 12px; overflow: hidden; box-shadow: 0 6px 12px rgba(0,0,0,0.1); border: 1px solid #eee;">
+      <img src="./screesnhots/ss2.png" alt="Trending Royal Artifacts" style="width: 100%; height: auto; display: block; border-bottom: 1px solid #eee;"/>
+      <div style="padding: 1.5rem; background: #fff;">
+        <h3 style="margin: 0 0 1rem 0; color: #8B0000; display: flex; align-items: center; gap: 0.5rem;">
+          👑 Trending Royal Artifacts
+        </h3>
+        <p style="margin: 0 0 0.5rem; color: #444; line-height: 1.6;">
+          The <strong>Trending Royal Artifacts</strong> section showcases traditional treasures including <em>Peshwa Turban, Paithani Saree, Maharani's Pearl Necklace, and Velvet Mojaris</em>. Each product card displays the artifact image, price, and an <strong>Add to Cart</strong> option.
+        </p>
+        <p style="margin: 0; color: #666; font-size: 0.95rem; font-style: italic;">
+          Special picks are highlighted with a <span style="color: #8B0000; font-weight: 600;">"Maharaj's Pick"</span> badge for exclusivity.
+        </p>
       </div>
     </div>
 
-    <!-- Mobile Views -->
-    <div style="border-radius: 8px; overflow: hidden; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
-      <div style="padding: 1rem; background: #f8f9fa; text-align: center;">
-        <h4 style="margin: 0 0 0.5rem 0; color: #333;">Mobile Experience</h4>
+    <!-- AI Product Staging -->
+    <div style="border-radius: 12px; overflow: hidden; box-shadow: 0 6px 12px rgba(0,0,0,0.1); border: 1px solid #eee;">
+      <div style="padding: 1.5rem; background: #f8f5f0; text-align: center; border-bottom: 1px solid #eee;">
+        <h3 style="margin: 0; color: #8B0000; display: flex; align-items: center; justify-content: center; gap: 0.5rem;">
+          🤖 AI Product Staging
+        </h3>
       </div>
-      <div style="display: flex; justify-content: center; padding: 1rem; background: #f8f9fa;">
-        <img src="./screesnhots/ss3.png" alt="Mobile View" style="max-width: 200px; height: auto; border-radius: 12px; box-shadow: 0 2px 4px rgba(0,0,0,0.1);"/>
+      <div style="display: flex; justify-content: center; padding: 1.5rem; background: #f8f5f0;">
+        <img src="./screesnhots/ss3.png" alt="AI Product Staging" style="max-width: 200px; height: auto; border-radius: 12px; box-shadow: 0 4px 8px rgba(0,0,0,0.1); border: 1px solid #ddd;"/>
       </div>
-      <div style="padding: 0 1rem 1rem; background: #f8f9fa; border-top: 1px solid #eee;">
-        <p style="margin: 0; color: #666; font-size: 0.9rem;">Fully responsive design for all devices</p>
+      <div style="padding: 0 1.5rem 1.5rem; background: #f8f5f0;">
+        <p style="margin: 0; color: #444; line-height: 1.6;">
+          The <strong>AI Product Staging</strong> feature allows sellers to describe their product, and the AI generates <strong>majestic styling suggestions</strong> along with a <strong>staged photograph preview</strong>. This empowers artisans to present their royal artifacts in a visually stunning way.
+        </p>
       </div>
     </div>
 
-    <div style="border-radius: 8px; overflow: hidden; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
-      <div style="padding: 1rem; background: #222; text-align: center;">
-        <h4 style="margin: 0 0 0.5rem 0; color: #fff;">Dark Mode</h4>
+    <!-- RajyaBazaar Assistant -->
+    <div style="border-radius: 12px; overflow: hidden; box-shadow: 0 6px 12px rgba(0,0,0,0.1); border: 1px solid #333; background: #222;">
+      <div style="padding: 1.5rem; text-align: center; border-bottom: 1px solid #444;">
+        <h3 style="margin: 0; color: #fff; display: flex; align-items: center; justify-content: center; gap: 0.5rem;">
+          💬 RajyaBazaar Assistant
+        </h3>
       </div>
-      <div style="display: flex; justify-content: center; padding: 1rem; background: #222;">
-        <img src="./screesnhots/ss4.png" alt="Dark Mode" style="max-width: 200px; height: auto; border-radius: 12px; box-shadow: 0 2px 4px rgba(0,0,0,0.3);"/>
+      <div style="display: flex; justify-content: center; padding: 1.5rem; background: #222;">
+        <img src="./screesnhots/ss4.png" alt="RajyaBazaar Assistant" style="max-width: 200px; height: auto; border-radius: 12px; box-shadow: 0 4px 8px rgba(0,0,0,0.3); border: 1px solid #444;"/>
       </div>
-      <div style="padding: 1rem; background: #222; border-top: 1px solid #333;">
-        <p style="margin: 0; color: #aaa; font-size: 0.9rem;">Seamless dark mode for comfortable browsing</p>
+      <div style="padding: 0 1.5rem 1.5rem; background: #222;">
+        <p style="margin: 0 0 0.5rem; color: #ddd; line-height: 1.6;">
+          The <strong>RajyaBazaar Assistant</strong> is an AI-powered chatbot that provides real-time support. It can answer queries, track orders, give personalized recommendations, assist with payments/returns, and connect users to human representatives when needed.
+        </p>
+        <p style="margin: 0; color: #aaa; font-style: italic; font-size: 0.95rem;">
+          Ensuring a smooth and royal shopping experience for all users.
+        </p>
       </div>
-    </div>
   </div>
 </div>
 
