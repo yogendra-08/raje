@@ -26,15 +26,49 @@ RajyaBazaar is a comprehensive, modern e-commerce platform dedicated to preservi
 <div align="center">
   <h3>Explore the RajyaBazaar Experience</h3>
   
-  | Homepage | Product Page |
-  |----------|--------------|
-  | <img src="./screesnhots/ss1.png" alt="RajyaBazaar Homepage" width="400"/> | <img src="./screesnhots/ss2.png" alt="Product Page" width="400"/> |
-  | Experience our beautiful homepage showcasing featured Maratha heritage products | Detailed product view with rich descriptions and purchase options |
-  
-  | Mobile View | Dark Mode |
-  |-------------|-----------|
-  | <img src="./screesnhots/ss3.png" alt="Mobile View" width="200"/> | <img src="./screesnhots/ss4.png" alt="Dark Mode" width="200"/> |
-  | Fully responsive design for all devices | Seamless dark mode for comfortable browsing |
+  <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 2rem; margin: 2rem 0;">
+    <!-- Desktop Views -->
+    <div style="border-radius: 8px; overflow: hidden; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
+      <img src="./screesnhots/ss1.png" alt="RajyaBazaar Homepage" style="width: 100%; height: auto; display: block;"/>
+      <div style="padding: 1rem; background: #f8f9fa; border-top: 1px solid #eee;">
+        <h4 style="margin: 0 0 0.5rem 0; color: #333;">Homepage</h4>
+        <p style="margin: 0; color: #666; font-size: 0.9rem;">Experience our beautiful homepage showcasing featured Maratha heritage products</p>
+      </div>
+    </div>
+
+    <div style="border-radius: 8px; overflow: hidden; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
+      <img src="./screesnhots/ss2.png" alt="Product Page" style="width: 100%; height: auto; display: block;"/>
+      <div style="padding: 1rem; background: #f8f9fa; border-top: 1px solid #eee;">
+        <h4 style="margin: 0 0 0.5rem 0; color: #333;">Product Page</h4>
+        <p style="margin: 0; color: #666; font-size: 0.9rem;">Detailed product view with rich descriptions and purchase options</p>
+      </div>
+    </div>
+
+    <!-- Mobile Views -->
+    <div style="border-radius: 8px; overflow: hidden; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
+      <div style="padding: 1rem; background: #f8f9fa; text-align: center;">
+        <h4 style="margin: 0 0 0.5rem 0; color: #333;">Mobile Experience</h4>
+      </div>
+      <div style="display: flex; justify-content: center; padding: 1rem; background: #f8f9fa;">
+        <img src="./screesnhots/ss3.png" alt="Mobile View" style="max-width: 200px; height: auto; border-radius: 12px; box-shadow: 0 2px 4px rgba(0,0,0,0.1);"/>
+      </div>
+      <div style="padding: 0 1rem 1rem; background: #f8f9fa; border-top: 1px solid #eee;">
+        <p style="margin: 0; color: #666; font-size: 0.9rem;">Fully responsive design for all devices</p>
+      </div>
+    </div>
+
+    <div style="border-radius: 8px; overflow: hidden; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
+      <div style="padding: 1rem; background: #222; text-align: center;">
+        <h4 style="margin: 0 0 0.5rem 0; color: #fff;">Dark Mode</h4>
+      </div>
+      <div style="display: flex; justify-content: center; padding: 1rem; background: #222;">
+        <img src="./screesnhots/ss4.png" alt="Dark Mode" style="max-width: 200px; height: auto; border-radius: 12px; box-shadow: 0 2px 4px rgba(0,0,0,0.3);"/>
+      </div>
+      <div style="padding: 1rem; background: #222; border-top: 1px solid #333;">
+        <p style="margin: 0; color: #aaa; font-size: 0.9rem;">Seamless dark mode for comfortable browsing</p>
+      </div>
+    </div>
+  </div>
 </div>
 
 ## ✨ **Complete Feature Set**
