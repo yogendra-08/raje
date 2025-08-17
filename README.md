@@ -30,7 +30,7 @@ RajyaBazaar is a comprehensive, modern e-commerce platform dedicated to preservi
     
     <!-- RajyaBazaar Homepage -->
     <div style="border-radius: 12px; overflow: hidden; box-shadow: 0 6px 12px rgba(0,0,0,0.1); border: 1px solid #eee;">
-      <img src="./screesnhots/ss1.png" alt="RajyaBazaar Homepage" style="width: 100%; height: auto; display: block; border-bottom: 1px solid #eee;"/>
+      <img src="./screenshots/ss1.png" alt="RajyaBazaar Homepage" style="width: 100%; height: auto; display: block; border-bottom: 1px solid #eee;"/>
       <div style="padding: 1.5rem; background: #fff;">
         <h3 style="margin: 0 0 1rem 0; color: #8B0000; display: flex; align-items: center; gap: 0.5rem;">
           🏛️ RajyaBazaar - Homepage
@@ -43,7 +43,7 @@ RajyaBazaar is a comprehensive, modern e-commerce platform dedicated to preservi
 
     <!-- Trending Royal Artifacts -->
     <div style="border-radius: 12px; overflow: hidden; box-shadow: 0 6px 12px rgba(0,0,0,0.1); border: 1px solid #eee;">
-      <img src="./screesnhots/ss2.png" alt="Trending Royal Artifacts" style="width: 100%; height: auto; display: block; border-bottom: 1px solid #eee;"/>
+      <img src="./screenshots/ss2.png" alt="Trending Royal Artifacts" style="width: 100%; height: auto; display: block; border-bottom: 1px solid #eee;"/>
       <div style="padding: 1.5rem; background: #fff;">
         <h3 style="margin: 0 0 1rem 0; color: #8B0000; display: flex; align-items: center; gap: 0.5rem;">
           👑 Trending Royal Artifacts
@@ -65,7 +65,7 @@ RajyaBazaar is a comprehensive, modern e-commerce platform dedicated to preservi
         </h3>
       </div>
       <div style="display: flex; justify-content: center; padding: 1.5rem; background: #f8f5f0;">
-        <img src="./screesnhots/ss3.png" alt="AI Product Staging" style="max-width: 200px; height: auto; border-radius: 12px; box-shadow: 0 4px 8px rgba(0,0,0,0.1); border: 1px solid #ddd;"/>
+        <img src="./screenshots/ss3.png" alt="AI Product Staging" style="max-width: 200px; height: auto; border-radius: 12px; box-shadow: 0 4px 8px rgba(0,0,0,0.1); border: 1px solid #ddd;"/>
       </div>
       <div style="padding: 0 1.5rem 1.5rem; background: #f8f5f0;">
         <p style="margin: 0; color: #444; line-height: 1.6;">
@@ -82,7 +82,7 @@ RajyaBazaar is a comprehensive, modern e-commerce platform dedicated to preservi
         </h3>
       </div>
       <div style="display: flex; justify-content: center; padding: 1.5rem; background: #222;">
-        <img src="./screesnhots/ss4.png" alt="RajyaBazaar Assistant" style="max-width: 200px; height: auto; border-radius: 12px; box-shadow: 0 4px 8px rgba(0,0,0,0.3); border: 1px solid #444;"/>
+        <img src="./screenshots/ss4.png" alt="RajyaBazaar Assistant" style="max-width: 200px; height: auto; border-radius: 12px; box-shadow: 0 4px 8px rgba(0,0,0,0.3); border: 1px solid #444;"/>
       </div>
       <div style="padding: 0 1.5rem 1.5rem; background: #222;">
         <p style="margin: 0 0 0.5rem; color: #ddd; line-height: 1.6;">
@@ -285,7 +285,8 @@ rajyabazar/
 │   └── ai/                # AI integration with Genkit
 ├── public/                # Static assets
 │   ├── book-images/       # Book cover images
-│   └── product-pictures/  # Product images
+│   ├── product-pictures/  # Product images
+│   └── screenshots/       # Project screenshots
 └── docs/                  # Documentation
 ```
 
