@@ -27,6 +27,7 @@ RajyaBazaar is a comprehensive, modern e-commerce platform dedicated to preservi
   <h3>Explore the RajyaBazaar Experience</h3>
   
   <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(320px, 1fr)); gap: 2rem; margin: 2rem 0;">
+    
     <!-- RajyaBazaar Homepage -->
     <div style="border-radius: 12px; overflow: hidden; box-shadow: 0 6px 12px rgba(0,0,0,0.1); border: 1px solid #eee;">
       <img src="./screesnhots/ss1.png" alt="RajyaBazaar Homepage" style="width: 100%; height: auto; display: block; border-bottom: 1px solid #eee;"/>
@@ -91,8 +92,11 @@ RajyaBazaar is a comprehensive, modern e-commerce platform dedicated to preservi
           Ensuring a smooth and royal shopping experience for all users.
         </p>
       </div>
+    </div>
+
   </div>
 </div>
+
 
 ## ✨ **Complete Feature Set**
 
