@@ -21,81 +21,50 @@
 
 RajyaBazaar is a comprehensive, modern e-commerce platform dedicated to preserving and showcasing the rich cultural heritage of the Maratha Empire. Our platform offers authentic handicrafts, royal attire, historical books, wooden weapons, and souvenirs that celebrate the legacy of Chhatrapati Shivaji Maharaj and Maratha culture.
 
-## 🖼️ **Project Showcase**
+## 🖼️ Explore the RajyaBazaar Experience
 
-<div align="center">
-  <h3>Explore the RajyaBazaar Experience</h3>
-  
-  <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(320px, 1fr)); gap: 2rem; margin: 2rem 0;">
-    
-    <!-- RajyaBazaar Homepage -->
-    <div style="border-radius: 12px; overflow: hidden; box-shadow: 0 6px 12px rgba(0,0,0,0.1); border: 1px solid #eee;">
-      <img src="./screenshots/ss1.png" alt="RajyaBazaar Homepage" style="width: 100%; height: auto; display: block; border-bottom: 1px solid #eee;"/>
-      <div style="padding: 1.5rem; background: #fff;">
-        <h3 style="margin: 0 0 1rem 0; color: #8B0000; display: flex; align-items: center; gap: 0.5rem;">
-          🏛️ RajyaBazaar - Homepage
-        </h3>
-        <p style="margin: 0; color: #444; line-height: 1.6;">
-          The homepage of <strong>RajyaBazaar</strong> welcomes users with a royal touch, highlighting India's cultural heritage with a modern marketplace UI. It features a search bar for royal artifacts, navigation menu, login option, and a prominent <strong>"Explore the Legacy"</strong> CTA button that guides users to curated collections.
-        </p>
-      </div>
-    </div>
+### 🏛️ RajyaBazaar - Homepage
+![RajyaBazaar Homepage](./screesnhots/ss1.png)
 
-    <!-- Trending Royal Artifacts -->
-    <div style="border-radius: 12px; overflow: hidden; box-shadow: 0 6px 12px rgba(0,0,0,0.1); border: 1px solid #eee;">
-      <img src="./screenshots/ss2.png" alt="Trending Royal Artifacts" style="width: 100%; height: auto; display: block; border-bottom: 1px solid #eee;"/>
-      <div style="padding: 1.5rem; background: #fff;">
-        <h3 style="margin: 0 0 1rem 0; color: #8B0000; display: flex; align-items: center; gap: 0.5rem;">
-          👑 Trending Royal Artifacts
-        </h3>
-        <p style="margin: 0 0 0.5rem; color: #444; line-height: 1.6;">
-          The <strong>Trending Royal Artifacts</strong> section showcases traditional treasures including <em>Peshwa Turban, Paithani Saree, Maharani's Pearl Necklace, and Velvet Mojaris</em>. Each product card displays the artifact image, price, and an <strong>Add to Cart</strong> option.
-        </p>
-        <p style="margin: 0; color: #666; font-size: 0.95rem; font-style: italic;">
-          Special picks are highlighted with a <span style="color: #8B0000; font-weight: 600;">"Maharaj's Pick"</span> badge for exclusivity.
-        </p>
-      </div>
-    </div>
+The homepage of **RajyaBazaar** welcomes users with a royal touch, highlighting India's cultural heritage with a modern marketplace UI.  
+It features a search bar for royal artifacts, navigation menu, login option, and a prominent **"Explore the Legacy"** button.
 
-    <!-- AI Product Staging -->
-    <div style="border-radius: 12px; overflow: hidden; box-shadow: 0 6px 12px rgba(0,0,0,0.1); border: 1px solid #eee;">
-      <div style="padding: 1.5rem; background: #f8f5f0; text-align: center; border-bottom: 1px solid #eee;">
-        <h3 style="margin: 0; color: #8B0000; display: flex; align-items: center; justify-content: center; gap: 0.5rem;">
-          🤖 AI Product Staging
-        </h3>
-      </div>
-      <div style="display: flex; justify-content: center; padding: 1.5rem; background: #f8f5f0;">
-        <img src="./screenshots/ss3.png" alt="AI Product Staging" style="max-width: 200px; height: auto; border-radius: 12px; box-shadow: 0 4px 8px rgba(0,0,0,0.1); border: 1px solid #ddd;"/>
-      </div>
-      <div style="padding: 0 1.5rem 1.5rem; background: #f8f5f0;">
-        <p style="margin: 0; color: #444; line-height: 1.6;">
-          The <strong>AI Product Staging</strong> feature allows sellers to describe their product, and the AI generates <strong>majestic styling suggestions</strong> along with a <strong>staged photograph preview</strong>. This empowers artisans to present their royal artifacts in a visually stunning way.
-        </p>
-      </div>
-    </div>
+---
 
-    <!-- RajyaBazaar Assistant -->
-    <div style="border-radius: 12px; overflow: hidden; box-shadow: 0 6px 12px rgba(0,0,0,0.1); border: 1px solid #333; background: #222;">
-      <div style="padding: 1.5rem; text-align: center; border-bottom: 1px solid #444;">
-        <h3 style="margin: 0; color: #fff; display: flex; align-items: center; justify-content: center; gap: 0.5rem;">
-          💬 RajyaBazaar Assistant
-        </h3>
-      </div>
-      <div style="display: flex; justify-content: center; padding: 1.5rem; background: #222;">
-        <img src="./screenshots/ss4.png" alt="RajyaBazaar Assistant" style="max-width: 200px; height: auto; border-radius: 12px; box-shadow: 0 4px 8px rgba(0,0,0,0.3); border: 1px solid #444;"/>
-      </div>
-      <div style="padding: 0 1.5rem 1.5rem; background: #222;">
-        <p style="margin: 0 0 0.5rem; color: #ddd; line-height: 1.6;">
-          The <strong>RajyaBazaar Assistant</strong> is an AI-powered chatbot that provides real-time support. It can answer queries, track orders, give personalized recommendations, assist with payments/returns, and connect users to human representatives when needed.
-        </p>
-        <p style="margin: 0; color: #aaa; font-style: italic; font-size: 0.95rem;">
-          Ensuring a smooth and royal shopping experience for all users.
-        </p>
-      </div>
-    </div>
+### 👑 Trending Royal Artifacts
+![Trending Royal Artifacts](./screesnhots/ss2.png)
 
-  </div>
-</div>
+The **Trending Royal Artifacts** section showcases traditional treasures including:  
+* Peshwa Turban  
+* Paithani Saree  
+* Maharani's Pearl Necklace  
+* Velvet Mojaris  
+
+Each product card displays the artifact image, price, and an **Add to Cart** option.  
+Special picks are highlighted with a **"Maharaj's Pick"** badge for exclusivity.
+
+---
+
+### 🤖 AI Product Staging
+![AI Product Staging](./screesnhots/ss3.png)
+
+The **AI Product Staging** feature allows sellers to describe their product, and the AI generates **majestic styling suggestions** along with a **staged photograph preview**.  
+This empowers artisans to present their royal artifacts in a visually stunning way.
+
+---
+
+### 💬 RajyaBazaar Assistant
+![RajyaBazaar Assistant](./screesnhots/ss4.png)
+
+The **RajyaBazaar Assistant** is an AI-powered chatbot that provides real-time support.  
+It can:  
+- Answer queries  
+- Track orders  
+- Give personalized recommendations  
+- Assist with payments/returns  
+- Connect users to human representatives  
+
+*Ensuring a smooth and royal shopping experience for all users.*  
 
 
 ## ✨ **Complete Feature Set**
